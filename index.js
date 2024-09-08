@@ -46,7 +46,6 @@ function displayInfo()
 }
 
 function setup() {
-
     async.parallel([
         (callback) => {
             session = null;
