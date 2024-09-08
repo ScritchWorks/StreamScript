@@ -1,0 +1,22 @@
+{
+  "name": "streamscript",
+  "version": "1.0.0",
+  "description": "A super simple script to run along side an art stream",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScritchWorks/StreamScript.git"
+  },
+  "keywords": ["OBS Stream", "OBS", "Music", "Streaming"],
+  "author": "Rowedahelicon <hello@cruxes.space>",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/ScritchWorks/StreamScript/issues"
+  },
+  "homepage": "https://rowedahelicon.com",
+  "dependencies": {
+    "@xan105/nodert": "^2.2.1",
+    "async": "^3.2.6",
+    "pmi.js": "^1.0.4"
+  },
+  "type": "module"
+}
